@@ -3,6 +3,8 @@
 
 A simple telegram bot that first checks if user has joined to specific channels and then if user joined to all of them, bot will send some information to user
 
+The package name used to make this bot is **python-telegram-bot**
+
 
 ## Screenshot From Bot
  - Send message to user first join to our channels
